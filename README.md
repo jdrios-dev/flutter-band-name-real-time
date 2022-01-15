@@ -1,6 +1,6 @@
-# band_name
+# Band Name (Real time app with Socket.io)
 
-A new Flutter project.
+A real time Flutter project.
 
 ## Getting Started
 
