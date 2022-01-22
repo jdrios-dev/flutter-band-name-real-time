@@ -23,7 +23,7 @@ class SocketService with ChangeNotifier {
 
   void _initConfig() {
     _socket = IO.io(
-        'ws://10.0.2.2:3000/',
+        'https://brand-name-server-jdrr.herokuapp.com/',
         //'htpp://localhost:3000',
         IO.OptionBuilder()
             .setTransports(['websocket']) // for Flutter or Dart VM
